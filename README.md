@@ -1,2 +1,2 @@
 # GBotPod
-Bot uma um grupo do Podmaniacos
+Bot de um grupo do Podmaniacos
